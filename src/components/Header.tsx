@@ -5,12 +5,12 @@ const Header = () => {
   return (
     <div className="sticky top-0 ">
         
-        <div className="bg-green-400 flex justify-around  items-center h-20 px-4 ">
+        <div className="bg-green-400 flex justify-around  items-center h-16 px-4 ">
             <div className="  ">
-                <Image src={logo} alt="logo" className="w-20 h-20 rounded-md"/>
+                <Image src={logo} alt="logo" className="w-18 h-16 rounded-md"/>
             </div>
             <div className="">
-                <ul className="flex gap-10 text-white text-xl">
+                <ul className="flex gap-10 text-white text-md">
                 <li className="">
                 <Link href ="./">Home</Link>
                     </li>

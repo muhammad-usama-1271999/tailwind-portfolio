@@ -8,10 +8,10 @@ const about = () => {
         <Header />
         <div className="lg:flex lg:justify-around content-center lg:flex-row-reverse mx-3">
             <div className="my-3">
-                <Image src={mainImage} alt="author image" className="border-b-4 border-green-400 rounded-[30px] lg:h-[800px] lg:w-[600px] -mt-24 mx-auto" />
+                <Image src={mainImage} alt="author image" className="border-b-4 border-green-400 rounded-[30px] lg:h-[700px] lg:w-[400px] -mt-24 mx-auto" />
             </div>
             <div className="grid place-content-center py-24 lg:mb-3">
-            <h1 className="text-green-400 text-5xl font-bold"> About me</h1>
+            <h1 className="text-green-400 text-4xl font-bold"> About me</h1>
             <h2 className="text-green-200 text-3xl mt-3">My coding journey</h2>
             <p className="text-white text-xl">I start my coding journey with 
                 <span className="text-green-300 font-bold text-2xl cursor-pointer"><i><a href="https://www.governorsindh.com/"> GIAIC</a></i></span></p>

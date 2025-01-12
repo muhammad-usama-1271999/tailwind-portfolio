@@ -8,10 +8,10 @@ const contact = () => {
         <Header />
         <div className="lg:flex justify-around lg:flex-row-reverse">
             <div className="my-4">
-                <Image src={mainImage} alt="author image" className="border-b-4 border-green-400 rounded-[30px] lg:h-[800px] lg:w-[600px] -mt-24 mx-auto" />
+                <Image src={mainImage} alt="author image" className="border-b-4 border-green-400 rounded-[30px] lg:h-[700px] lg:w-[400px] -mt-24 mx-auto" />
             </div>
             <div className="grid place-content-center py-24">
-                <h1 className="text-green-400 text-5xl font-bold"> Contact me</h1>
+                <h1 className="text-green-400 text-4xl font-bold"> Contact me</h1>
                 <div className="mt-10">
                 <p className="text-white text-2xl mb-3">Contact with E-mail</p>
                 <a href="mailto:ahtishamrajputchohan@gmail.com"
