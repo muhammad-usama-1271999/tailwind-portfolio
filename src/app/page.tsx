@@ -56,7 +56,7 @@ export default function Home() {
                 <a href="https://www.linkedin.com/in/muhammad-usama-37732b2b8/"
                     className=" text-lg text-green-200 hover:text-green-400 border-b-2 border-green-200 hover:border-green-400">www.linkedin.com/in/muhammad-usama-37732b2b8/</a>
                 </div>
-             </div> 
+            </div>
         </div>
     );
 }

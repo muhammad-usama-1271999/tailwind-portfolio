@@ -7,7 +7,7 @@ const Header = () => {
         
         <div className="bg-green-400 flex justify-around  items-center h-16 px-4 ">
             <div className="  ">
-                <Image src={logo} alt="logo" className="w-18 h-16 rounded-md"/>
+                <Image src={logo} alt="logo" className="w-16 h-16 rounded-md"/>
             </div>
             <div className="">
                 <ul className="flex gap-10 text-white text-md">
